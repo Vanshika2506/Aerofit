@@ -8,13 +8,21 @@ About
 The company collected the data on individuals who purchased a treadmill from the AeroFit stores during the prior three months. The dataset has the following features:
 
 Product Purchased: KP281, KP481, or KP781
+
 Age: In years
+
 Gender: Male/Female
+
 Education: In years
+
 MaritalStatus: Single or partnered
+
 Usage: The average number of times the customer plans to use the treadmill each week.
+
 Income: Annual income (in $)
+
 Fitness: Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape.
+
 Miles: The average number of miles the customer expects to walk/run each week
 
 For this project, I analyzed data on three types of treadmills: KP281, KP481, and KP781. I performed univariate, bivariate, and multivariate analyses on the data, utilizing probability and statistics to gain insights and make observations. I calculated marginal and conditional probabilities for various variables. Additionally, I utilized barplots, kdeplots, lineplots, and boxplots for data visualization. To assess correlation and conditional probability, I employed heatmaps.
